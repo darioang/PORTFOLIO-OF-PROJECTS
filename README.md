@@ -12,6 +12,8 @@ Hello! Please use this README to view the projects and repositories that I am mo
 - HTML
 - CSS
 - ReactJS
+- Google OAuth 2.0
+- Firebase
 
 # Description
 This README serves as a guide for visitors to my Github profile, highlighting the projects that showcase my strongest skills. Feel free to explore the projects mentioned below and get a better sense of my capabilities. Continue reading for more details and enjoy your visit!
